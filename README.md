@@ -68,7 +68,7 @@ To run the project locally, you can use the following npm scripts:
 
 ## Live Demo
 
-You can check out the live demo of this project [here](demo_link).
+You can check out the live demo of this project [Live Website](https://hexleap-assignment-tau.vercel.app/).
 
 ## Contributing
 
